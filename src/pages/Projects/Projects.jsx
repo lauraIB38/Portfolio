@@ -1,6 +1,6 @@
 import Header from '/src/components/Header';
 
-export default function Home() {
+export default function Projects() {
   return(
       <Header/>  
   )
