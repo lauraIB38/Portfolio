@@ -29,7 +29,6 @@ const headerStyles = {
   link: {
     marginRight: '20px',
     textDecoration: 'none',
-    fontFamily:  "'Inter Display', sans-serif",
   },
   leftLink: {
     marginRight: '20px',
