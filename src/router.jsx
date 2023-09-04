@@ -11,7 +11,8 @@ import About from './pages/About'
 function Router() {
   return (
     <Routes>
-      <Route path="home">
+    
+      <Route path="/">
         <Route index element={<Home />} />
       </Route>
       <Route path="about">
