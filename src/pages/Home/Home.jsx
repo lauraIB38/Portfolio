@@ -5,38 +5,8 @@ export default function Home() {
   return(
     <div>
       <Header/>  
-
-      
-    
-     
-      <p>Bye</p>
-      <p>Bye</p>
-      <p>Bye</p>
-      v
-      v
-      v
-      v
-      <p>Bye</p>
-      <p>Bye</p>
-      <p>Bye</p>
-      <p>Bye</p>
-      <p>Bye</p>
-      v
-      <p>Bye</p>
-      <var>v</var>
-      v
-      <p>Bye</p>
-      <p>Bye</p>
-
-      <p>Bye</p>
-      <p>Bye</p>
-      <p>Bye</p>
-      <p>Bye</p>
-      <p>Bye</p>
-      <p>Bye</p>
-      v
-      <p>Bye</p>
-      <p>Bye</p>
+      {/* <Slide direction="up" in={true} mountOnEnter unmountOnExit >hola </Slide> */}
+      <h1 style={{marginTop: '200px', display: 'flex', justifyContent: 'center'}}>Project under construction...</h1>
 
     </div>
   )
